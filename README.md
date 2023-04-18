@@ -7,7 +7,7 @@ L'exécution du script est stoppée lors de la fermeture de la console Powershel
 
 # Installation
 
-Récupérer le fichier "checkAvailabilitiesKlikego.ps1" de la dernière release.
+Récupérer le fichier "checkAvailabilitiesKlikego.ps1".
 
 # Récupération des informations nécessaires
 
