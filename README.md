@@ -17,6 +17,7 @@ Récupérer le fichier "checkAvailabilitiesKlikego.ps1" de la dernière release.
 
 ![image](https://user-images.githubusercontent.com/1401675/232883528-66983dfa-8481-46e2-84e7-342776b079ba.png)
 3- Cliquer sur "Consulter la liste", et noter l'URL, par exemple ici "https://www.klikego.com/revente-dossard/triathlon-de-broceliande-2023/1644013702567-2"
+
 ![image](https://user-images.githubusercontent.com/1401675/232883776-7de56bb5-7ad8-42d1-b2ff-10842b08a9ca.png)
 
 
