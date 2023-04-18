@@ -44,7 +44,7 @@ Set-ExecutionPolicy ByPass -Scope Process
 Example :
 ![image](https://user-images.githubusercontent.com/1401675/232885344-5d062db8-7b7b-4d50-aae7-d03b8591905c.png)
 
-5- Pour stopper le script, le plus simple est de ferme la console Powershell
+5- Pour stopper le script, le plus simple est de fermer la console Powershell
 
 Je vous invite dans un premier temps à tester la procédure sur une course où il existe bel et bien un dossard dans la bourse aux dossards.
 
