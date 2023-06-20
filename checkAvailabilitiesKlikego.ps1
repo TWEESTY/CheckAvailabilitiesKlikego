@@ -46,7 +46,9 @@ do{
             continue
         }
 
-        if($response.Content -like "*$NomEpreuve*"){
+        $resultRegex =  [regex]::Match($response.Content,"<table.*$NomEpreuve.*</table>",[System.Text.RegularExpressions.RegexOptions]::Singleline)
+        
+        if($resultRegex.Success){
             Write-Host $dossardFoundMessage -ForegroundColor Green
             Show-Notification -Message $dossardFoundMessage -Title "GO!"
         }
