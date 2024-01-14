@@ -11,11 +11,13 @@ Récupérer le fichier "checkAvailabilitiesKlikego.ps1" (ici : https://github.co
 
 # Récupération des informations nécessaires
 
-1- Accéder à la page principale de la course souhaitée, par exemple ici la page pour le triathlon de Brocéliande 
-![image](https://user-images.githubusercontent.com/1401675/232883254-a2653c88-1f7c-4e39-9767-c03ea2a1ffbd.png)
-2- Noter le nom de l'épreuve qui vous intéresse, par exemple ici "Triathlon S"
+1- Accéder à la page principale de la course souhaitée, par exemple ici la page pour le TRAIL DU CLOCHER TORS 
+![image](https://github.com/TWEESTY/CheckAvailabilitiesKlikego/assets/1401675/e01e6b92-1dc3-4572-b868-3711ba08f0eb)
 
-![image](https://user-images.githubusercontent.com/1401675/232883528-66983dfa-8481-46e2-84e7-342776b079ba.png)
+
+2- Noter le nom de l'épreuve qui vous intéresse, par exemple ici "Marche 10 km"
+![image](https://github.com/TWEESTY/CheckAvailabilitiesKlikego/assets/1401675/34d468f1-a367-4ed3-8e9e-83406d0e05e9)
+
 
 3- Cliquer sur "Consulter la liste", puis cliquer sur le bouton concernant votre course, puis noter l'URL, par exemple ici "[https://www.klikego.com/revente-dossard/triathlon-de-broceliande-2023/1644013702567-2](https://www.klikego.com/revente-dossard/trail-du-clocher-tors-2024/1430427100346-8?heat-id=1570484622019)"
 
