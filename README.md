@@ -17,10 +17,9 @@ Récupérer le fichier "checkAvailabilitiesKlikego.ps1" (ici : https://github.co
 
 ![image](https://user-images.githubusercontent.com/1401675/232883528-66983dfa-8481-46e2-84e7-342776b079ba.png)
 
-3- Cliquer sur "Consulter la liste", et noter l'URL, par exemple ici "https://www.klikego.com/revente-dossard/triathlon-de-broceliande-2023/1644013702567-2"
+3- Cliquer sur "Consulter la liste", puis cliquer sur le bouton concernant votre course, puis noter l'URL, par exemple ici "[https://www.klikego.com/revente-dossard/triathlon-de-broceliande-2023/1644013702567-2](https://www.klikego.com/revente-dossard/trail-du-clocher-tors-2024/1430427100346-8?heat-id=1570484622019)"
 
-![image](https://user-images.githubusercontent.com/1401675/232883776-7de56bb5-7ad8-42d1-b2ff-10842b08a9ca.png)
-
+![image](https://github.com/TWEESTY/CheckAvailabilitiesKlikego/assets/1401675/e8aa3bdb-863d-4881-8c67-17d58bb98ddb)
 
 # Lancement
 
@@ -42,7 +41,8 @@ Set-ExecutionPolicy ByPass -Scope Process
 .\checkAvailabilitiesKlikego.ps1 -BourseEchangeCourseUrl "<URL_RECUPEREE>" -NomEpreuve "<NOM_EPREUVE_RECUPERE>" -DureeEnSecondsEntreChaqueRecuperation <DUREE_ENTRE_CHAQUE_ESSAI>
 ```
 Example :
-![image](https://user-images.githubusercontent.com/1401675/232885344-5d062db8-7b7b-4d50-aae7-d03b8591905c.png)
+
+![image](https://github.com/TWEESTY/CheckAvailabilitiesKlikego/assets/1401675/44ba93b8-fd32-44b4-822a-cb97de0b249b)
 
 5- Pour stopper le script, le plus simple est de fermer la console Powershell
 
